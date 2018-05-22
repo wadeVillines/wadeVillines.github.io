@@ -1,0 +1,50 @@
+div.banner
+{
+	height: 50px;
+	background-color: steelblue;
+}
+
+div.banner2
+{
+	height: 150px;
+	background-color: gray;
+}
+
+.topnav
+{
+	background-color: #333333;
+}
+
+.topnav a
+{
+	float: left;
+	color: #83b51e;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.topnav a:hover
+{
+	background-color: white;
+	color: steelblue;
+}
+
+.topnav a.active
+{
+	background-color: white;
+	color: steelblue;
+}
+
+h1.banner
+{
+	vertical-align: middle;
+	color: #83b51e;
+}
+
+.pagetitle
+{
+	padding-top: 15px;
+	text-align:left;
+}
